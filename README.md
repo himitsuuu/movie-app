@@ -11,7 +11,7 @@
 ## Project Using
 #### Slick
 #### TailwindCSS
-### Axios
+#### Axios
 ## Preview
 
 ![image1](https://user-images.githubusercontent.com/62241342/146627330-ab495599-b2ba-4471-9c38-1f80b85adf3a.png)
