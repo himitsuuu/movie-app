@@ -37,7 +37,7 @@ function Menu() {
         <Link className="flex items-center" to="/">
           <img className="w-12 h-12" src={logo} alt="" />
           <h3 className="text-[#e40913] px-4 font-bold text-3xl sm:hidden ">
-            BiliMovies
+            KimikoMovies
           </h3>
         </Link>
       </div>
