@@ -14,7 +14,7 @@ function Footer() {
             <div className="px-4 flex items-center">
               <img className="h-12" src={logo} alt="" />
               <Link className="font-bold text-xl" to="/">
-                BiliMovies
+                KimikoMovies
               </Link>
             </div>
             <div className="mt-5">
@@ -121,7 +121,7 @@ function Footer() {
         </div>
       </div>
       <div className="absolute bottom-0 ml-4" style={{ zIndex: "1" }}>
-        Made by Bang Ngo
+        @2021 KimikoApps
       </div>
     </div>
   );
